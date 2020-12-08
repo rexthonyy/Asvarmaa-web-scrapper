@@ -1,0 +1,5 @@
+<h3> - title of the post
+<time> - time when the post was created
+? - Post description
+? - Link to post
+? - Post picture
